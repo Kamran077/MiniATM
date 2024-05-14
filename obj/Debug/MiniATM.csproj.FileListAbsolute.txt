@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#_Projects\KamranTest\MiniATM\bin\Debug\MiniATM.exe.config
+C:\Users\User\Documents\C#_Projects\KamranTest\MiniATM\bin\Debug\MiniATM.exe
+C:\Users\User\Documents\C#_Projects\KamranTest\MiniATM\bin\Debug\MiniATM.pdb
+C:\Users\User\Documents\C#_Projects\KamranTest\MiniATM\obj\Debug\MiniATM.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#_Projects\KamranTest\MiniATM\obj\Debug\MiniATM.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#_Projects\KamranTest\MiniATM\obj\Debug\MiniATM.exe
+C:\Users\User\Documents\C#_Projects\KamranTest\MiniATM\obj\Debug\MiniATM.pdb
